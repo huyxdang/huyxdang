@@ -7,4 +7,4 @@
 /  /      \     \               `   \     \                 (/  (/                  /  /    `
 ```
 
-Xin chào! More about at [huyxdang.com]{huyxdang.com}
+👋 Xin chào - more about me @ [huyxdang.com](huyxdang.com)
