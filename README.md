@@ -1,4 +1,9 @@
-## Hi there 👋
+```text
+   /\_/\
+  ( o.o )
+   > ^ <
+```
+
 
 <!--
 **huyxdang/huyxdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
