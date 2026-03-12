@@ -8,5 +8,3 @@
 ```
 
 👋 Xin chào - More about me at [huyxdang.com](https://www.huyxdang.com/)
-
-[![huyxdang's GitHub stats](https://github-readme-stats.vercel.app/api?username=huyxdang)](https://github.com/anuraghazra/github-readme-stats)
