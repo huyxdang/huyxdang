@@ -7,6 +7,7 @@
    /  /      \     \               `   \     \                 (/  (/                  /  /    `
 ```
 
+Exercise Tracker
   <p align="center">
     <img src="https://raw.githubusercontent.com/huyxdang/ExerciseGit/main/public/exercise.svg" alt="ExerciseGit" width="100%" />
   </p>
