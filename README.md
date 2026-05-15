@@ -7,6 +7,6 @@
    /  /      \     \               `   \     \                 (/  (/                  /  /    `
 ```
 
-![ExerciseGit](https://raw.githubusercontent.com/huyxdang/ExerciseGit/main/public/exercise.svg)
+![My workout graph](https://raw.githubusercontent.com/huyxdang/ExerciseGit/main/public/exercise.svg)
 
 👋 More at [huyxdang.com](https://www.huyxdang.com/)
