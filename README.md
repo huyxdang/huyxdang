@@ -9,7 +9,9 @@
 
 Exercise Tracker
   <p align="center">
-    <img src="https://raw.githubusercontent.com/huyxdang/ExerciseGit/main/public/exercise.svg" alt="ExerciseGit" width="100%" />
+    <a href="https://github.com/huyxdang/ExerciseGit">
+      <img src="https://raw.githubusercontent.com/huyxdang/ExerciseGit/main/public/exercise.svg" alt="ExerciseGit" width="100%" />
+    </a>
   </p>
 
 👋 More at [huyxdang.com](https://www.huyxdang.com/)
