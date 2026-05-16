@@ -9,7 +9,7 @@
 
   <p align="center">
     <a href="https://github.com/huyxdang/ExerciseGit">
-      <img src="https://raw.githubusercontent.com/huyxdang/ExerciseGit/main/public/exercise.svg?v=20260516115300" alt="ExerciseGit" width="100%" />
+      <img src="https://raw.githubusercontent.com/huyxdang/ExerciseGit/main/public/exercise.svg?v=20260516130928" alt="ExerciseGit" width="100%" />
     </a>
   </p>
 
