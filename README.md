@@ -11,7 +11,7 @@
   </p>
   <p align="center">
     <a href="https://www.strava.com/athletes/136589875">
-      <img src="https://raw.githubusercontent.com/huyxdang/ExerciseGit/main/public/exercise.svg?v=20260601172612" alt="ExerciseGit" width="100%" />
+      <img src="https://raw.githubusercontent.com/huyxdang/ExerciseGit/main/public/exercise.svg?v=20260601212509" alt="ExerciseGit" width="100%" />
     </a>
   </p>
 
