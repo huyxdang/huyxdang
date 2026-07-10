@@ -6,4 +6,4 @@
     /  /  `\ ._/'\             ' <' `\ ._/'\                  )\  )_/                  /  /`\ ._/'
    /  /      \     \               `   \     \                 (/  (/                  /  /    `
 ```
-👋 Xin chào, learn more about me here: [huyxdang.com](https://www.huyxdang.com/)
+👋 Xin chào, learn more about me @ [huyxdang.com](https://www.huyxdang.com/)
