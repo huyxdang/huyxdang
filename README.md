@@ -7,6 +7,6 @@
    /  /      \     \               `   \     \                 (/  (/                  /  /    `
 ```
 
-I'm interested in supercharging humans with AI.
+Interested in supercharging humans with AI !
 
-[huyxdang.com](https://www.huyxdang.com/)
+learn more about me at [huyxdang.com](https://www.huyxdang.com/)
