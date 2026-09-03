@@ -9,4 +9,4 @@
 
 Interested in supercharging humans with AI !
 
-learn more about me at [huyxdang.com](https://www.huyxdang.com/)
+Learn more about me -> [huyxdang.com](https://www.huyxdang.com/)
