@@ -7,6 +7,6 @@
    /  /      \     \               `   \     \                 (/  (/                  /  /    `
 ```
 
-Interested in supercharging humans with AI 🚀
+🚀 Interested in Supercharging Humans with AI 
 
 Learn more about me -> [huyxdang.com](https://www.huyxdang.com/)
