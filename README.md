@@ -6,4 +6,7 @@
     /  /  `\ ._/'\             ' <' `\ ._/'\                  )\  )_/                  /  /`\ ._/'
    /  /      \     \               `   \     \                 (/  (/                  /  /    `
 ```
-👋 Xin chào, learn more about me @ [huyxdang.com](https://www.huyxdang.com/)
+
+I'm interested in supercharging humans with AI.
+
+[huyxdang.com](https://www.huyxdang.com/)
