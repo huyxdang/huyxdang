@@ -11,4 +11,4 @@ Currently, interested in Inference & Real-time AI
 
 🌎 [huyxdang.com](https://www.huyxdang.com/)
 
-✉️ xhuydng@gmail.com
+📩 xhuydng@gmail.com
