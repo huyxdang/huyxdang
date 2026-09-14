@@ -7,7 +7,7 @@
    /  /      \     \               `   \     \                 (/  (/                  /  /    `
 ```
 
-Interested in Supercharge Humans with AI! 
+interested in inference & continual learning
 
 👋 [huyxdang.com](https://www.huyxdang.com/)
 
