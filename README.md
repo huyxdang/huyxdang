@@ -7,7 +7,7 @@
    /  /      \     \               `   \     \                 (/  (/                  /  /    `
 ```
 
-interested in inference & continual learning
+interested in inference & real-time AI
 
 👋 [huyxdang.com](https://www.huyxdang.com/)
 
