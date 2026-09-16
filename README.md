@@ -7,7 +7,7 @@
    /  /      \     \               `   \     \                 (/  (/                  /  /    `
 ```
 
-Currently, interested in Inference & Real-time AI
+Currently, interested in Real-time AI
 
 🌎 [huyxdang.com](https://www.huyxdang.com/)
 
