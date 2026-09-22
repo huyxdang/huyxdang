@@ -7,7 +7,7 @@
    /  /      \     \               `   \     \                 (/  (/                  /  /    `
 ```
 
-Currently, interested in Real-time AI
+Currently, interested in Adaptive AI
 
 🌎 [huyxdang.com](https://www.huyxdang.com/)
 
