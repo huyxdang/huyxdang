@@ -7,7 +7,7 @@
    /  /      \     \               `   \     \                 (/  (/                  /  /    `
 ```
 
-Currently, interested in ML system & efficient models
+Currently, interested in ML systems & efficient models
 
 🌎 [huyxdang.com](https://www.huyxdang.com/)
 
