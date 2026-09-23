@@ -7,7 +7,7 @@
    /  /      \     \               `   \     \                 (/  (/                  /  /    `
 ```
 
-Currently, interested in Adaptive AI
+Currently, interested in ML system & efficient models
 
 🌎 [huyxdang.com](https://www.huyxdang.com/)
 
