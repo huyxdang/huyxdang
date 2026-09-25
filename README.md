@@ -7,7 +7,7 @@
    /  /      \     \               `   \     \                 (/  (/                  /  /    `
 ```
 
-Currently, interested in ML systems & efficient models
+Interested in AI that augments humans; currently, full-duplex models and efficient ML (both models and inference)
 
 🌎 [huyxdang.com](https://www.huyxdang.com/)
 
