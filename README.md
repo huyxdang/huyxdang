@@ -7,7 +7,7 @@
    /  /      \     \               `   \     \                 (/  (/                  /  /    `
 ```
 
-Interested in AI that augments humans; currently, full-duplex models and efficient ML (both models and inference)
+Multi-modal inference & full-duplex model
 
 🌎 [huyxdang.com](https://www.huyxdang.com/)
 
